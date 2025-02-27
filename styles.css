@@ -1,4 +1,8 @@
 /* styles.css */
+img {
+    border-radius: 50%
+}
+
 body {
     
     background: linear-gradient(to right, #0e978c, #939768, #939768, #0e978c);
