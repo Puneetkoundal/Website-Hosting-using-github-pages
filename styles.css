@@ -5,6 +5,6 @@ img {
 
 body {
     
-    background: linear-gradient(to right, #0e978c, #939768, #939768, #0e978c);
+    background: radial-gradient(#51e2f5, #9df9ef, #edf756, #ffa8B6)
 
 }
