@@ -1,2 +1,2 @@
-# resume
-My Resume
+# Resume
+My Resume Portfolio Page
